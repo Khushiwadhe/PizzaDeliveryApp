@@ -1,0 +1,17 @@
+{
+  "name": "pizza-delivery-application-main",
+  "version": "1.0.0",
+  "description": "cd backend >> npm init cd pizza >> npm init Add your razorpay KEY_ID AND KEY_SECRET in ./backend/router/orderHandle.js Add your razorpay KEY_ID in ./pizza/src/pages/Cart.jsx Run command for both backend and pizza >> npm run dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1",
+    "nodemon": "^3.1.4"
+  }
+}
